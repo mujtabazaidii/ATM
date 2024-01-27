@@ -199,7 +199,7 @@ int login(int ids[])
 
 int main()
 {
-	cout << "\t\t\t\t\t Hi! Welcome to Ms.Farzeen's ATM Machine" << endl << endl;
+	cout << "\t\t\t\t\t Hi! Welcome to Mr.Mujtaba's ATM Machine" << endl << endl;
 	bool flag = false;
 	int i = 0;
 
